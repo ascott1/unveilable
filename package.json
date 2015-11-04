@@ -1,0 +1,31 @@
+{
+  "name": "unveilable",
+  "version": "0.1.0",
+  "description": "A modern update of \"Unveil,\" the very lightweight jQuery plugin to lazy load images",
+  "main": "jquery.unveilable.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascott1/unveilable.git"
+  },
+  "keywords": [
+    "jQuery",
+    "plugin",
+    "lazyload",
+    "lazy",
+    "load",
+    "images"
+  ],
+  "author": {
+    "name": "Adam D. Scott"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ascott1/unveilable/issues"
+  },
+  "homepage": "https://github.com/ascott1/unveilable#readme",
+  "readme": "# unveilable\n",
+  "readmeFilename": "README.md"
+}
